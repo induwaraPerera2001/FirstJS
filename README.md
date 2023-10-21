@@ -1,0 +1,2 @@
+# FirstJS
+My first JS
